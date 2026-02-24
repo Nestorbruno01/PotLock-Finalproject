@@ -134,3 +134,8 @@ I figured out that one always had to restart the Arduino to lock it again. I the
 Locking back I have two idea for future improvements. <br>
 The first one is some kind of lockout state, similar to what we have in smartphones, where you have a little cooldown, whenever you put the wrong code 3 times or so. <br>
 The second is one is to further improving the cable management as there are so many and they sometimes get in the way.
+
+## 7. AI use
+- Button debounce function.
+- LCD screen display input (live display)
+- Improve formatting for loop
