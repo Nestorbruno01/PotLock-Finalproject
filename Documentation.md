@@ -82,7 +82,13 @@ RED LED for locked status.<br>
 Green LED for unlocked status.<br>
 
 For the buzzer I added short little sounds:<br>
-One for input, One for success, one for wrong input.
+One for input, One for success, one for wrong input.<br>
+
+After this I did a little test.
+
+
+https://github.com/user-attachments/assets/dfbd91fb-725c-48bf-8c6a-7a8e7dd2117f
+
 
 
 ### 6. step: Adding the servo lock
@@ -109,9 +115,16 @@ Goal: Attaching all technical parts.<br>
 First, I attached the breadboard to the left inside wall using power strips. After this I screwed on the lcd screen, the perfboard (including LED's and buzzer), as well as the Arduino itself. For the servo I used power strips again and the potentiometer is secured via tape.
 Fortunately the button did not need anymore security, as the legs were now long enough.
 
+![Mittel (IMG_834)](https://github.com/user-attachments/assets/f5c9b961-3b5a-4ce0-b1e9-a7bcbeb85f5e)
+
+
 ### 10. step: Wiring
 Goal: Finalising the build<br>
 The wiring was pretty straightforward, as I just copied what I had done on the breadboard before. It took a while to do some cable management, as I was not able to close the box at first. But in the end it worked.
+
+![Mittel (IMG_8357)](https://github.com/user-attachments/assets/cb6020de-1328-4d3e-9874-ab0399244e46)
+![Mittel (IMG_8356)](https://github.com/user-attachments/assets/1fe7f0bf-399f-4019-a861-d5e18309535f)
+![Mittel (IMG_8355)](https://github.com/user-attachments/assets/99e375c7-6837-4c16-91e9-400aa3df6287)
 
 ### 11. step: Relock function
 Goal: allow the user to lock again after opening.
